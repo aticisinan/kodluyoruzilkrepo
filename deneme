@@ -1,0 +1,27 @@
+[1mdiff --git a/grid.html b/grid.html[m
+[1mindex e131ff0..c277814 100644[m
+[1m--- a/grid.html[m
+[1m+++ b/grid.html[m
+[36m@@ -26,6 +26,7 @@[m
+       <div style="background-color: lightblue;">[m
+         div 3</div>[m
+ [m
+[32m+[m[32m        as[m
+       <div style="[m
+        margin-top: 30px;[m
+        display:grid;[m
+[36m@@ -50,9 +51,11 @@[m
+         div 1</div>[m
+        <div style="background-color: lightpink;">[m
+         1fr</div>[m
+[31m-        <div style="background-color: lightblue;">[m
+[31m-         1fr</div>    [m
+ [m
+[32m+[m[32m        deneme[m
+[32m+[m[41m    [m
+[32m+[m[41m          [m
+[32m+[m[41m          [m
+   </div>[m
+   </body>[m
+   </html>[m
+\ No newline at end of file[m
